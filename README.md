@@ -1,1 +1,1 @@
-Contract address of ICP Deployment(for verifying)=0x0468D6ae47CB445Ac3bb0a4fFCDB48b567385fF1
+Contract address of ICO Deployment(for verifying)=0x0468D6ae47CB445Ac3bb0a4fFCDB48b567385fF1
